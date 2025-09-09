@@ -1,4 +1,8 @@
 Dynamic Factor Model using Recurrent Variational AutoEncoder (RVAE)
+
+
+
+
 📌 Overview
 
 This project implements a Dynamic Factor Model using a Recurrent Variational AutoEncoder (RVAE) to analyze stock market dependencies from time-series data. The model is designed to uncover latent market factors that drive stock co-movements, using deep learning techniques.
